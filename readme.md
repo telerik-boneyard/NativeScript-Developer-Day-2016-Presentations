@@ -24,7 +24,9 @@ Nick van Weerdenburg<br>
 [Angular Universal Tooling](https://docs.google.com/presentation/d/1EvWk436DvLYDfomq0tMuNjdAMSIvl1jn2XdBo_Bl5as/edit?usp=sharing) (Google Slides)<br>
 Jeff Whelpley
 
-[Building A "Real" Robot App With NativeScript](https://drive.google.com/file/d/0B4BcydrYoAJFa0NpQ3F0VVFaQ1U/view) (Google Slides/PowerPoint)<br>
+
+
+[Building A "Real" Robot App With NativeScript](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/Building%20Robot%20Apps.pptx?raw=true) (PowerPoint)<br>
 Sebastian Witalec
 
 [Using The Microsoft Graph Api To Get Office 365 Data In Your Mobile Apps](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/alex-ziskind.pptx?raw=true) (PowerPoint)<br>
