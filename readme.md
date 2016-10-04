@@ -1,19 +1,25 @@
 # NativeScript Developer Day 2016 Presentations
 
+You can follow all of the video recordings as they are released via [this playlist](https://www.youtube.com/playlist?list=PLiKWVuUOQtPY4XpvBSu41tobgm3YR99-r).
+
 [Workshop](https://nativescript.github.io/developer-day-workshop/) (GitHub Repository)<br>
 TJ VanToll, Jen Looper, Sebastian Witalec
 
 [Keynote](http://www.slideshare.net/BrianRinaldi/nativescript-developer-day-keynote-todd-anglin-burke-holland) (SlideShare)<br>
-Todd Anglin, Burke Holland
+Todd Anglin, Burke Holland<br>
+[Watch the video recording](https://www.youtube.com/watch?v=2EhflZCdPCI)
 
 [The Latest and Greatest in NativeScript](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/nativescript-new-looper-vantoll.pptx?raw=true) (PowerPoint)<br>
-Jen Looper, TJ VanToll
+Jen Looper, TJ VanToll<br>
+[Watch the video recording](https://www.youtube.com/watch?v=6em3r-NJRJs)
 
 Visual Studio Code: Your New Editor (Not Yet Available)<br>
-Gavin Bauman
+Gavin Bauman<br>
+[Watch the video recording](https://www.youtube.com/watch?v=MPHQ-c4aKAY)
 
-Why NativeScript Demands You Rethink Your Mobile Application Strategy (Not Yet Available)<br>
-Nick van Weerdenburg
+[Why NativeScript Demands You Rethink Your Mobile Application Strategy](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/Rethinking%20Mobile%20App%20Strategy%20Sept%202016.pdf) (PDF)<br>
+Nick van Weerdenburg<br>
+[Watch the video recording](https://www.youtube.com/watch?v=_KP8afkHFeI)
 
 [Angular Universal Tooling](https://docs.google.com/presentation/d/1EvWk436DvLYDfomq0tMuNjdAMSIvl1jn2XdBo_Bl5as/edit?usp=sharing) (Google Slides)<br>
 Jeff Whelpley
