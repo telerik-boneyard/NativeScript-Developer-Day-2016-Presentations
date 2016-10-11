@@ -23,30 +23,38 @@ Nick van Weerdenburg<br>
 
 [Angular Universal Tooling](https://docs.google.com/presentation/d/1EvWk436DvLYDfomq0tMuNjdAMSIvl1jn2XdBo_Bl5as/edit?usp=sharing) (Google Slides)<br>
 Jeff Whelpley
+[Watch the video recording]()
 
 
 
 [Building A "Real" Robot App With NativeScript](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/Building%20Robot%20Apps.pptx?raw=true) (PowerPoint)<br>
 Sebastian Witalec
+[Watch the video recording](https://www.youtube.com/watch?v=qOQ24lTOQ7o&feature=youtu.be)
 
 [Using The Microsoft Graph Api To Get Office 365 Data In Your Mobile Apps](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/alex-ziskind.pptx?raw=true) (PowerPoint)<br>
 Alex Ziskind
+[Watch the video recording](https://www.youtube.com/watch?v=zBp4R3i45z0&feature=youtu.be)
 
 [Going Into Battle With NativeScript Angular: A Real World Case Study](http://slides.com/nathanwalker/shoutoutplay-devdays#/) (Slides.com)<br>
 Nathan Walker
+[Watch the video recording](https://www.youtube.com/watch?v=zDvW0k6TEhA&feature=youtu.be)
 
 [Using Redux For Building Applications With NativeScript Angular](http://slides.com/alexandervakrilov/nativescriptredux#/) (Slides.com)<br>
 ([GitHub Repo](https://github.com/vakrilov/ns-dev-days-demo))
 Alex Vakrilov
+[Watch the video recording](https://www.youtube.com/watch?v=qOQ24lTOQ7o&feature=youtu.be)
 
 [Resilient Apps With Angular 2](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/giorgio-natili.pdf) (PDF)<br>
 Giorgio Natili
+[Watch the video recording](https://www.youtube.com/watch?v=HCOrJHqsjJE&feature=youtu.be)
 
 [Unit Testing For NativeScript](http://fluentreports.com/blog/wp-content/uploads/2016/09/NativeScript-Testing.pdf) (PDF)<br>
 Nathanael Anderson
+[Watch the video recording](https://www.youtube.com/watch?v=tu5h2NxTzIo&feature=youtu.be)
 
 [Make Programming Great Again (Closing Keynote)](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/raymond-camden.pdf) (PDF)<br>
 Raymond Camden
+[Watch the video recording](https://www.youtube.com/watch?v=Bk_UaG2krZI&feature=youtu.be)
 
 
 
