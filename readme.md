@@ -42,7 +42,7 @@ Nathan Walker
 [Using Redux For Building Applications With NativeScript Angular](http://slides.com/alexandervakrilov/nativescriptredux#/) (Slides.com)<br>
 ([GitHub Repo](https://github.com/vakrilov/ns-dev-days-demo))
 Alex Vakrilov
-[Watch the video recording](https://www.youtube.com/watch?v=qOQ24lTOQ7o&feature=youtu.be)
+[Watch the video recording](https://www.youtube.com/watch?v=jH5I8ZPzXWE&feature=youtu.be)
 
 [Resilient Apps With Angular 2](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/giorgio-natili.pdf) (PDF)<br>
 Giorgio Natili
