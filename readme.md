@@ -23,7 +23,7 @@ Nick van Weerdenburg<br>
 
 [Angular Universal Tooling](https://docs.google.com/presentation/d/1EvWk436DvLYDfomq0tMuNjdAMSIvl1jn2XdBo_Bl5as/edit?usp=sharing) (Google Slides)<br>
 Jeff Whelpley<br>
-[Watch the video recording]()https://www.youtube.com/watch?v=87CwUVHAM9s
+[Watch the video recording](https://www.youtube.com/watch?v=87CwUVHAM9s)
 
 [Building A "Real" Robot App With NativeScript](https://github.com/telerik/NativeScript-Developer-Day-2016-Presentations/blob/master/Building%20Robot%20Apps.pptx?raw=true) (PowerPoint)<br>
 Sebastian Witalec<br>
